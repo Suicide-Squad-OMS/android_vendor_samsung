@@ -22,7 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klte/proprietary/blobs/gsm/bin/qmuxd:system/blobs/gsm/bin/qmuxd \
     vendor/samsung/klte/proprietary/blobs/gsm/bin/rfs_access:system/blobs/gsm/bin/rfs_access \
     vendor/samsung/klte/proprietary/blobs/gsm/bin/rild:system/blobs/gsm/bin/rild \
-    vendor/samsung/klte/proprietary/blobs/gsm/bin/rmt_storage:system/blobs/gsm/bin/rmt_storage \
+    vendor/samsung/klte/proprietary/blobs/gsm/vendor/bin/rmt_storage:system/blobs/gsm/vendor/bin/rmt_storage \
     vendor/samsung/klte/proprietary/blobs/gsm/lib/libreference-ril.so:system/blobs/gsm/lib/libreference-ril.so \
     vendor/samsung/klte/proprietary/blobs/gsm/lib/libril.so:system/blobs/gsm/lib/libril.so \
     vendor/samsung/klte/proprietary/blobs/gsm/lib/libsec-ril.so:system/blobs/gsm/lib/libsec-ril.so \
@@ -36,7 +36,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klte/proprietary/blobs/usc/bin/qmuxd:system/blobs/usc/bin/qmuxd \
     vendor/samsung/klte/proprietary/blobs/usc/bin/rfs_access:system/blobs/usc/bin/rfs_access \
     vendor/samsung/klte/proprietary/blobs/usc/bin/rild:system/blobs/usc/bin/rild \
-    vendor/samsung/klte/proprietary/blobs/usc/bin/rmt_storage:system/blobs/usc/bin/rmt_storage \
+    vendor/samsung/klte/proprietary/blobs/usc/vendor/bin/rmt_storage:system/blobs/usc/vendor/bin/rmt_storage \
     vendor/samsung/klte/proprietary/blobs/usc/lib/libreference-ril.so:system/blobs/usc/lib/libreference-ril.so \
     vendor/samsung/klte/proprietary/blobs/usc/lib/libril.so:system/blobs/usc/lib/libril.so \
     vendor/samsung/klte/proprietary/blobs/usc/lib/libsec-ril.so:system/blobs/usc/lib/libsec-ril.so \
@@ -50,7 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/klte/proprietary/blobs/vzw/bin/qmuxd:system/blobs/vzw/bin/qmuxd \
     vendor/samsung/klte/proprietary/blobs/vzw/bin/rfs_access:system/blobs/vzw/bin/rfs_access \
     vendor/samsung/klte/proprietary/blobs/vzw/bin/rild:system/blobs/vzw/bin/rild \
-    vendor/samsung/klte/proprietary/blobs/vzw/bin/rmt_storage:system/blobs/vzw/bin/rmt_storage \
+    vendor/samsung/klte/proprietary/blobs/vzw/vendor/bin/rmt_storage:system/blobs/vzw/vendor/bin/rmt_storage \
     vendor/samsung/klte/proprietary/blobs/vzw/lib/libreference-ril.so:system/blobs/vzw/lib/libreference-ril.so \
     vendor/samsung/klte/proprietary/blobs/vzw/lib/libril.so:system/blobs/vzw/lib/libril.so \
     vendor/samsung/klte/proprietary/blobs/vzw/lib/libsec-ril.so:system/blobs/vzw/lib/libsec-ril.so \
